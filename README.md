@@ -1,5 +1,9 @@
 # Naruto Shadow Clone
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PINTO0309/NARUTO-HandSignDetection/main/95489944-78d5ed00-09d2-11eb-96f6-a687b012c413.gif" width="500" />
+</p>
+
 A browser-based app that uses your webcam, hand tracking, and a custom-trained gesture model to trigger Naruto shadow clone effect in real time.
 
 > **⚠️ Important:**
