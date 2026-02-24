@@ -1,6 +1,8 @@
 # Naruto Shadow Clone
 
-![naruto-jutsu](https://github.com/user-attachments/assets/51c5cead-fc0b-41f7-b12e-5f68c33dad57)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51c5cead-fc0b-41f7-b12e-5f68c33dad57" alt="naruto-jutsu" />
+</p>
 
 
 
